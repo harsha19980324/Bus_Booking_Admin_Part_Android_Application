@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "415833507827",
+    "firebase_url": "https://ebusbook-admin-default-rtdb.firebaseio.com",
+    "project_id": "ebusbook-admin",
+    "storage_bucket": "ebusbook-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415833507827:android:722b6a48e5679e9554f486",
+        "android_client_info": {
+          "package_name": "com.example.ebusbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415833507827-bup3g133q5s0322ritmlttlld5dp1mne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzwpBIy5A6ukssIJ91AzkA8Q2SjNg-JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415833507827-bup3g133q5s0322ritmlttlld5dp1mne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415833507827:android:1c7880a379de3ede54f486",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415833507827-bup3g133q5s0322ritmlttlld5dp1mne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzwpBIy5A6ukssIJ91AzkA8Q2SjNg-JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415833507827-bup3g133q5s0322ritmlttlld5dp1mne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
